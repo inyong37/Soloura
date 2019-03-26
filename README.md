@@ -12,7 +12,7 @@
 ### IV. Natural Language Processing for Sequence (Life Language Processing)
 #### i. BioPython
 Reference: https://biopython.org/wiki/Download <Br>
-  Install
+  <Tr>Install
 ```
 pip install biopython
 ```
