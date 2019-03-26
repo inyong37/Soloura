@@ -22,3 +22,11 @@ pip install biovec
 ```
 #### iii. Life Language Processing
 Refernce: https://llp.berkeley.edu/
+
+#### iv. DNA2Vec
+Reference: https://github.com/pnpnpn/dna2vec
+Requirments
+```
+pip install gensim
+pip install Logbook
+```
