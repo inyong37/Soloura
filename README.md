@@ -32,4 +32,14 @@ Reference: https://github.com/pnpnpn/dna2vec
 pip install gensim
 pip install Logbook
 pip install ConfigArgParse
+pip install arrow
+```
+##### Works on only UNIX system because of 'resource' package
+Reference: https://stackoverflow.com/questions/49232580/how-to-import-resource-module
+```
+pip install Resource
+```
+or
+```
+pip install python-resources
 ```
