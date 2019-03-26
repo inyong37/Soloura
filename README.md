@@ -23,7 +23,7 @@ pip install biopython
 pip install biovec
 ```
 #### iii. Life Language Processing
-Refernce: https://llp.berkeley.edu/
+[Refernce](https://llp.berkeley.edu/)
 
 #### iv. DNA2Vec [Paper (arXiv)](https://arxiv.org/abs/1701.06279)
 [Reference](https://github.com/pnpnpn/dna2vec)
