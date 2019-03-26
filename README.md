@@ -31,4 +31,5 @@ Reference: https://github.com/pnpnpn/dna2vec <Br>
 ```
 pip install gensim
 pip install Logbook
+pip install ConfigArgParse
 ```
