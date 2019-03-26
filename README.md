@@ -16,7 +16,7 @@ Install
 ```
 pip install biopython
 ```
-#### ii. BioVec
+#### ii. BioVec [Paper (arXiv)](https://arxiv.org/abs/1503.05140)
 Reference: https://pypi.org/project/biovec/ <Br>
 Install
 ```
