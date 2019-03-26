@@ -12,13 +12,13 @@
 ### IV. Natural Language Processing for Sequence (Life Language Processing)
 #### i. BioPython
 Reference: https://biopython.org/wiki/Download <Br>
-Install
+##### Install
 ```
 pip install biopython
 ```
 #### ii. BioVec [Paper (arXiv)](https://arxiv.org/abs/1503.05140)
 Reference: https://pypi.org/project/biovec/ <Br>
-Install
+##### Install
 ```
 pip install biovec
 ```
@@ -27,7 +27,7 @@ Refernce: https://llp.berkeley.edu/
 
 #### iv. DNA2Vec [Paper (arXiv)](https://arxiv.org/abs/1701.06279)
 Reference: https://github.com/pnpnpn/dna2vec <Br>
-Requirments Packages
+##### Requirments Packages
 ```
 pip install gensim
 pip install Logbook
