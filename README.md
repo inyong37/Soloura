@@ -16,7 +16,7 @@ Reference: https://biopython.org/wiki/Download <Br>
 ```
 pip install biopython
 ```
-#### ii. BioVec [Paper (arXiv)](https://arxiv.org/abs/1503.05140)
+#### ii. BioVec [Paper (arXiv)](https://arxiv.org/abs/1503.05140) [Paper (PLOS)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141287)
 Reference: https://pypi.org/project/biovec/ <Br>
 ##### Install
 ```
