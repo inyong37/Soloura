@@ -23,3 +23,20 @@
 >>> f['chr1']
 NpyFastaRecord(0..80)
 ```
+
+#### 'has_key' and 'in' [Reference (stackoverflow)](https://stackoverflow.com/questions/1323410/should-i-use-has-key-or-in-on-python-dicts)
+'has_key' is for python 2.x and 'in' is for python 3.x.
+##### Example 'has_key'
+```
+def convert_amino_to_binary(amino):
+    if not AMINO_ACID_BINARY_TABLE.has_key(amino):
+        return None
+    return AMINO_ACID_BINARY_TABLE[amino]
+```
+##### Example 'in'
+```
+def Convert_Protein_to_Binary(Protein):
+    if not Protein in Protein_Binary_Table:
+        return None
+    return Protein_Binary_Table[Protein]
+```
