@@ -40,3 +40,5 @@ def Convert_Protein_to_Binary(Protein):
         return None
     return Protein_Binary_Table[Protein]
 ```
+#### tqdm [Reference (Source)](https://github.com/tqdm/tqdm)
+
