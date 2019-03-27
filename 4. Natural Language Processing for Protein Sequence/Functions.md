@@ -12,6 +12,7 @@
 
 #### from pyfasta import Fasta [Reference](https://github.com/brentp/pyfasta/)
 ##### Example
+```
 >>> from pyfasta import Fasta
 
 >>> f = Fasta('tests/data/three_chrs.fasta')
@@ -20,3 +21,4 @@
 
 >>> f['chr1']
 NpyFastaRecord(0..80)
+```
