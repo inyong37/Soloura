@@ -17,7 +17,7 @@
 pip install biopython
 ```
 #### ii. BioVec [Paper (arXiv)](https://arxiv.org/abs/1503.05140) [Paper (PLOS)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141287)
-[Reference](https://pypi.org/project/biovec/)
+[Reference (pypi)](https://pypi.org/project/biovec/) [Reference (Source)](https://github.com/kyu999/biovec)
 ##### Install
 ```
 pip install biovec
