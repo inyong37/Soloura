@@ -34,8 +34,7 @@ pip install Logbook
 pip install ConfigArgParse
 pip install arrow
 ```
-##### Works on only UNIX system because of 'resource' module
-[Reference](https://stackoverflow.com/questions/49232580/how-to-import-resource-module)
+##### Works on only UNIX system because of 'resource' module [Stackoverflow](https://stackoverflow.com/questions/49232580/how-to-import-resource-module)
 ```
 pip install Resource
 ```
