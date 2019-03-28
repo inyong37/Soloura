@@ -10,6 +10,8 @@
 ### III. Structure Prediction
 
 ### IV. Natural Language Processing for Protein Sequence (Life Language Processing)
+##### Natural Langugage Processing with Deep Learning [Stanford CS241n](http://web.stanford.edu/class/cs224n/)
+##### Life Language Processing [UC Berkeley](https://llp.berkeley.edu/)
 #### i. BioPython
 [Reference](https://biopython.org/wiki/Download)
 ##### Install
@@ -22,10 +24,7 @@
 ```
 > pip install biovec
 ```
-#### iii. Life Language Processing
-[Refernce](https://llp.berkeley.edu/)
-
-#### iv. DNA2Vec [Paper (arXiv)](https://arxiv.org/abs/1701.06279)
+#### iii. DNA2Vec [Paper (arXiv)](https://arxiv.org/abs/1701.06279)
 [Reference](https://github.com/pnpnpn/dna2vec)
 ##### Requirments Packages
 ```
@@ -41,7 +40,7 @@ or
 > pip install python-resources
 ```
 
-#### v. Word2Vec
+#### iv. Word2Vec
 ##### A. gensim [Github](https://github.com/RaRe-Technologies/gensim)
 
 ##### B. Keras Version [Github](https://github.com/niitsuma/word2vec-keras-in-gensim)
