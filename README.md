@@ -38,7 +38,7 @@ or
 > pip install python-resources
 ```
 
-#### iv. Word2Vec, Glove, Fasttext [Korean](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/11/embedding/),
+#### iv. Word2Vec, Glove, Fasttext [Korean Blog](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/11/embedding/),
 ##### A. gensim [Github](https://github.com/RaRe-Technologies/gensim)
 
 ##### B. Word2Vec Keras Version [Github](https://github.com/niitsuma/word2vec-keras-in-gensim)
