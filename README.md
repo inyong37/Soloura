@@ -38,8 +38,8 @@ or
 > pip install python-resources
 ```
 
-#### iv. Word2Vec
+#### iv. Word2Vec, Glove, Fasttext [Korean](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/11/embedding/),
 ##### A. gensim [Github](https://github.com/RaRe-Technologies/gensim)
 
-##### B. Keras Version [Github](https://github.com/niitsuma/word2vec-keras-in-gensim)
+##### B. Word2Vec Keras Version [Github](https://github.com/niitsuma/word2vec-keras-in-gensim)
 So different with my environment Python=3.6, Keras=2.2.4 with Python version=2.7, Keras version<1.0
