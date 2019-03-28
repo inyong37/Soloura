@@ -43,3 +43,9 @@ or
 ```
 pip install python-resources
 ```
+
+#### v. Word2Vec
+##### A. gensim [Github](https://github.com/RaRe-Technologies/gensim)
+
+##### B. Keras Version [Github](https://github.com/niitsuma/word2vec-keras-in-gensim)
+So different with my Environment Python=3.6, Keras=2.2.4 with Python version=2.7, Keras version<1.0
