@@ -10,7 +10,7 @@
 ### III. Structure Prediction
 
 ### IV. Natural Language Processing for Protein Sequence (Life Language Processing)
-##### Natural Langugage Processing with Deep Learning [Stanford CS241n](http://web.stanford.edu/class/cs224n/)
+##### Natural Langugage Processing with Deep Learning [Stanford CS244n](http://web.stanford.edu/class/cs224n/)
 ##### Life Language Processing [UC Berkeley](https://llp.berkeley.edu/)
 #### i. BioPython
 [Reference](https://biopython.org/wiki/Download)
