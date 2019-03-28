@@ -17,13 +17,13 @@
 ```
 > pip install biopython
 ```
-#### ii. BioVec [Paper(arXiv)](https://arxiv.org/abs/1503.05140) [Paper(PLOS)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141287)
+#### ii. BioVec [Paper(arXiv)](https://arxiv.org/abs/1503.05140), [Paper(PLOS)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141287), [Github](https://github.com/kyu999/biovec)
 
-##### Install [pip](https://pypi.org/project/biovec/) [Github](https://github.com/kyu999/biovec)
+##### Install [pip](https://pypi.org/project/biovec/)
 ```
 > pip install biovec
 ```
-#### iii. DNA2Vec [Paper(arXiv)](https://arxiv.org/abs/1701.06279) [Github](https://github.com/pnpnpn/dna2vec)
+#### iii. DNA2Vec [Paper(arXiv)](https://arxiv.org/abs/1701.06279), [Github](https://github.com/pnpnpn/dna2vec)
 ##### Requirments Packages
 ```
 > pip install gensim
