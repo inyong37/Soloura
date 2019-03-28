@@ -38,7 +38,7 @@ or
 > pip install python-resources
 ```
 
-#### iv. Word2Vec, Glove, Fasttext [Korean Blog](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/11/embedding/), Doc2Vec [Korean Blog](http://www.engear.net/wp/doc2vec-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
+#### iv. Word2Vec, Glove, Fasttext [Korean Blog](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/11/embedding/), Doc2Vec [Korean Blog](http://www.engear.net/wp/doc2vec-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/), 딥러닝을 이용한 자연어 처리 입문 [Korean Book](https://wikidocs.net/book/2155)
 ##### A. gensim [Github](https://github.com/RaRe-Technologies/gensim)
 
 ##### B. Word2Vec Keras Version [Github](https://github.com/niitsuma/word2vec-keras-in-gensim)
