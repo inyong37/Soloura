@@ -12,20 +12,18 @@
 ### IV. Natural Language Processing for Protein Sequence (Life Language Processing)
 ##### Natural Langugage Processing with Deep Learning [Stanford CS244n](http://web.stanford.edu/class/cs224n/)
 ##### Life Language Processing [UC Berkeley](https://llp.berkeley.edu/)
-#### i. BioPython
-[Reference](https://biopython.org/wiki/Download)
+#### i. BioPython [Reference](https://biopython.org/wiki/Download)
 ##### Install
 ```
 > pip install biopython
 ```
 #### ii. BioVec [Paper (arXiv)](https://arxiv.org/abs/1503.05140) [Paper (PLOS)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141287)
-[Reference (pypi)](https://pypi.org/project/biovec/) [Reference (Source)](https://github.com/kyu999/biovec)
-##### Install
+
+##### Install [pip](https://pypi.org/project/biovec/) [Github](https://github.com/kyu999/biovec)
 ```
 > pip install biovec
 ```
-#### iii. DNA2Vec [Paper (arXiv)](https://arxiv.org/abs/1701.06279)
-[Reference](https://github.com/pnpnpn/dna2vec)
+#### iii. DNA2Vec [Paper (arXiv)](https://arxiv.org/abs/1701.06279) [Github](https://github.com/pnpnpn/dna2vec)
 ##### Requirments Packages
 ```
 > pip install gensim
