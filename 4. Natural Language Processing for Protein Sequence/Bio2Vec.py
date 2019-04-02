@@ -28,7 +28,7 @@ def Convert_Protein_to_Binary(Protein):
         return None
     return Protein_Binary_Table[Protein]
 
-def Convert_Sequene_to_Vector(Sequence):
+def Convert_Sequence_to_Vector(Sequence):
     binary_vector = [Convert_Protein_to_Binary(Protein) for Protein in Sequence]
     if None in binary_vector:
         return None
