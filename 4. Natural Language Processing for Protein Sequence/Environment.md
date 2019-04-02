@@ -1,4 +1,4 @@
-# Functions
+# Functions & Packages
 #### zip [Reference (Korean)](https://wikidocs.net/32#zip)
 ##### Example
 ```
@@ -42,3 +42,7 @@ def Convert_Protein_to_Binary(Protein):
 ```
 #### tqdm [Reference (Source)](https://github.com/tqdm/tqdm)
 
+#### nltk [pip](https://pypi.org/project/nltk/)
+```
+pip install nltk
+```
