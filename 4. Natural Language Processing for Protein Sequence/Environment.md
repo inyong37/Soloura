@@ -51,7 +51,8 @@ KoNLPy is a Python package for Korean natural language processing.
 
 ### How to deal with varying input size [ai.stackexchange](https://ai.stackexchange.com/questions/2008/how-can-neural-networks-deal-with-varying-input-sizes)
 
-### Word2Vec [Korean Blog](https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/)
-[Code with detailed explaination, Korean](https://pythonkim.tistory.com/93)
-[Code with Keras, Korean](https://byeongkijeong.github.io/Word2vec-from-scratch-using-keras/)
+### Word2Vec
+[Korean Blog](https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/),
+[Code with detailed explaination, Korean](https://pythonkim.tistory.com/93),
+[Code with Keras, Korean](https://byeongkijeong.github.io/Word2vec-from-scratch-using-keras/),
 [Code with Tensorflow, Korean](https://github.com/golbin/TensorFlow-Tutorials/blob/master/04%20-%20Neural%20Network%20Basic/03%20-%20Word2Vec.py)
