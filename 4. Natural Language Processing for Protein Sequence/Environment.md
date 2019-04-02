@@ -1,6 +1,5 @@
 # Functions & Packages
-### ZIP
-[Korean Blog](https://wikidocs.net/32#zip)
+### ZIP [Korean Blog](https://wikidocs.net/32#zip)
 #### Example
 ```
 >>> list(zip([1, 2, 3], [4, 5, 6]))
@@ -24,8 +23,7 @@
 NpyFastaRecord(0..80)
 ```
 
-### 'has_key' and 'in'
-[stackoverflow](https://stackoverflow.com/questions/1323410/should-i-use-has-key-or-in-on-python-dicts)
+### 'has_key' and 'in' [stackoverflow](https://stackoverflow.com/questions/1323410/should-i-use-has-key-or-in-on-python-dicts)
 'has_key' is for python 2.x and 'in' is for python 3.x.
 #### Example 'has_key'
 ```
@@ -53,5 +51,4 @@ KoNLPy is a Python package for Korean natural language processing.
 
 ### How to deal with varying input size [ai.stackexchange](https://ai.stackexchange.com/questions/2008/how-can-neural-networks-deal-with-varying-input-sizes)
 
-### Word2Vec
-[Korean Blog](https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/)
+### Word2Vec [Korean Blog](https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/)
