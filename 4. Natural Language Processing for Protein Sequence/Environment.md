@@ -49,3 +49,5 @@ pip install nltk
 ```
 #### KoNLPy [Reference](http://konlpy.org/ko/v0.4.3/)
 KoNLPy is a Python package for Korean natural language processing.
+
+#### How to deal with varying input size [ai.stackexchange](https://ai.stackexchange.com/questions/2008/how-can-neural-networks-deal-with-varying-input-sizes)
