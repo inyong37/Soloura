@@ -42,7 +42,8 @@ def Convert_Protein_to_Binary(Protein):
 ```
 #### tqdm [Reference (Source)](https://github.com/tqdm/tqdm)
 
-#### nltk [pip](https://pypi.org/project/nltk/)
+#### NLTK(The Natural Language Toolkit) [pip](https://pypi.org/project/nltk/)
+Python 2.7, 3.4, 3.5, 3.6, or 3.7.
 ```
 pip install nltk
 ```
