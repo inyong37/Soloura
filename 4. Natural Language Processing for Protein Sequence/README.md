@@ -1,4 +1,4 @@
-### IV. Natural Language Processing for Protein Sequence
+## IV. Natural Language Processing for Protein Sequence
 ##### Natural Langugage Processing with Deep Learning [Stanford CS244n](http://web.stanford.edu/class/cs224n/)
 ##### Life Language Processing [UC Berkeley](https://llp.berkeley.edu/)
 #### i. BioPython [Reference](https://biopython.org/wiki/Download)
