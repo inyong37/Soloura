@@ -1,3 +1,3 @@
 # Solouar
 ## Smart Solar Case
-2016 Summer
+Summer, 2016
